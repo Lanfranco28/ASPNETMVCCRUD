@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{D9B2BC54-AD0B-43B6-BC98-D4B3DD893E9A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ASPNETMVCCRUD PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ASPNETMVCCRUD/Views/_ViewImports.cshtml">
+    <Files>
+      <File FileName="ASPNETMVCCRUD/Views/_ViewImports.cshtml" Line="4" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASPNETMVCCRUD" expanded="True">
+            <Node name="Elementos de la solución" expanded="True" />
+            <Node name="ASPNETMVCCRUD" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="_ViewImports.cshtml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
